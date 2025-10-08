@@ -40,6 +40,23 @@ This project was completed **entirely in Microsoft Excel**, including data clean
 
 ---
 
+## 📊 Visualization
+
+Interactive Excel Dashboard created with Pivot Tables and Charts:
+
+* Purchase trends by **Age, Income, Gender, and Commute Distance**  
+* Correlation between **Income Levels and Buying Decisions**  
+* Slicers for dynamic filtering: **Region, Gender, Marital Status**
+
+### 𝄜 **Pivot Tables**
+<img width="611" height="151" alt="Pivot Table - 1" src="https://github.com/user-attachments/assets/97240644-580f-4838-a2e3-d35b3781941f" />
+<img width="607" height="244" alt="Pivot Table - 2" src="https://github.com/user-attachments/assets/8ead0e67-61a3-4aa0-af77-c039cfad9652" />
+
+### 📊 **Dashboard**
+<img width="895" height="595" alt="Dashboard" src="https://github.com/user-attachments/assets/45521ea3-a81a-4c77-8adb-7ce52fa5360e" />
+
+---
+
 ## 📈 Dashboard Insights
 
 ### 👥 Demographics
@@ -57,23 +74,6 @@ This project was completed **entirely in Microsoft Excel**, including data clean
 ### ⚧ Gender & Occupation
 * Minor income differences by gender; **males slightly dominate buyers**  
 * **Professional roles** form the largest segment
-
----
-
-## 📊 Visualization
-
-Interactive Excel Dashboard created with Pivot Tables and Charts:
-
-* Purchase trends by **Age, Income, Gender, and Commute Distance**  
-* Correlation between **Income Levels and Buying Decisions**  
-* Slicers for dynamic filtering: **Region, Gender, Marital Status**
-
-### **Pivot Tables**
-<img width="611" height="151" alt="Pivot Table - 1" src="https://github.com/user-attachments/assets/97240644-580f-4838-a2e3-d35b3781941f" />
-<img width="607" height="244" alt="Pivot Table - 2" src="https://github.com/user-attachments/assets/8ead0e67-61a3-4aa0-af77-c039cfad9652" />
-
-### **Dashboard**
-<img width="895" height="595" alt="Dashboard" src="https://github.com/user-attachments/assets/45521ea3-a81a-4c77-8adb-7ce52fa5360e" />
 
 ---
 

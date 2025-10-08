@@ -12,7 +12,6 @@ This project was completed **entirely in Microsoft Excel**, including data clean
   * Data Cleaning & Preparation  
   * Pivot Tables for Analysis  
   * Interactive Dashboard for Visualization
-* **Source Dataset:** [Alex The Analyst - Bike Buyers Dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 ---
 
@@ -24,7 +23,8 @@ This project was completed **entirely in Microsoft Excel**, including data clean
 * Converted inconsistent text values into **numeric and categorical formats**  
 * Verified consistency using **Filters** and **Conditional Formatting**  
 
-📁 **Cleaned Dataset:** [Download Excel File](https://github.com/yourusername/Bike-Buyer-Segmentation/blob/main/Cleaned_Bike_Buyers_Data.xlsx)
+📁 **Original Dataset:** [Original Excel Dataset](https://github.com/ShounBiju/Bike-Buyer-Insights-Excel-Dashboard/tree/main/DATASET)  
+📁 **Cleaned Dataset + Dashboard:** [Cleaned Excel File](https://github.com/ShounBiju/Bike-Buyer-Insights-Excel-Dashboard/blob/main/Bike%20Sales%20(Cleaned%20%2B%20Dashboard).xlsx)
 
 ---
 
@@ -48,7 +48,7 @@ This project was completed **entirely in Microsoft Excel**, including data clean
 
 ### 💵 Income vs Purchase
 * Buyers have **slightly lower income** than non-buyers  
-* Bikes are seen as a **value purchase** rather than a luxury
+* Bikes are viewed as a **value purchase**, not a luxury item
 
 ### 🚗 Commute Behavior
 * **2–5 mile commutes** show the highest purchase rate  
@@ -64,11 +64,16 @@ This project was completed **entirely in Microsoft Excel**, including data clean
 
 Interactive Excel Dashboard created with Pivot Tables and Charts:
 
-* Purchase trends by **Age, Income, Gender, Commute Distance**  
+* Purchase trends by **Age, Income, Gender, and Commute Distance**  
 * Correlation between **Income Levels and Buying Decisions**  
 * Slicers for dynamic filtering: **Region, Gender, Marital Status**
 
-![Bike Buyer Dashboard](https://github.com/user-attachments/assets/your-bike-dashboard.png)
+### **Pivot Tables**
+<img width="611" height="151" alt="Pivot Table - 1" src="https://github.com/user-attachments/assets/97240644-580f-4838-a2e3-d35b3781941f" />
+<img width="607" height="244" alt="Pivot Table - 2" src="https://github.com/user-attachments/assets/8ead0e67-61a3-4aa0-af77-c039cfad9652" />
+
+### **Dashboard**
+<img width="895" height="595" alt="Dashboard" src="https://github.com/user-attachments/assets/45521ea3-a81a-4c77-8adb-7ce52fa5360e" />
 
 ---
 
@@ -77,11 +82,11 @@ Interactive Excel Dashboard created with Pivot Tables and Charts:
 * 🎯 Focus marketing on **Middle-Aged Professionals** with **2–5 mile commutes**  
 * 🚴 Develop mid-range bikes emphasizing **comfort and reliability**  
 * 💼 Explore **premium options** for high-income customers  
-* 📈 Use the dashboard to **monitor buyer trends** and adjust campaigns
+* 📈 Use the dashboard to **monitor buyer trends** and adjust campaigns dynamically
 
 ---
 
 ## 🧭 Project Summary
 
 This project demonstrates **Excel as a full analytics environment** — from raw data cleaning to segmentation and dashboard visualization.  
-It shows how descriptive analytics can drive **targeted, data-driven marketing** and actionable insights into customer behavior.
+It highlights how descriptive analytics can drive **targeted, data-driven marketing** and actionable insights into customer behavior.
